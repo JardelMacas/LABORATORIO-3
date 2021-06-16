@@ -17,24 +17,24 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
-![]()
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/Resumen/ResumenLab3.png)
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
-![]()
-![]()
-![]()
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/Procedimiento/ProLab-1.png)
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/Procedimiento/ProLab-2.png)
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/Procedimiento/ProLab-3.png)
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/Procedimiento/ProLab-4.png)
 
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/ProcesoMatematico/ProMat-1.png)
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/ProcesoMatematico/ProMat-2.png)
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/ProcesoMatematico/ProMat-3.png)
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/ProcesoMatematico/ProMat-4.png)
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/ProcesoMatematico/ProMat-5.png)
+![](https://github.com/JardelMacas/LABORATORIO-3/blob/main/ProcesoMatematico/ProMat-6.png)
 
 
 **5.VIDEO**
